@@ -2,3 +2,6 @@ Request your features here. When you make a feature request, tell us how it will
 
 * **Ability to delete comments on Code Review tab** <br>
 Sometimes I'll save a comment, but later on it doesn't mesh well with my other ones.
+
+* **Ability to save comments on Project Review tab** <br>
+If you ever refresh the page while doing a review you will lose any comments left in the Project Review area.
