@@ -6,3 +6,6 @@ e.g. For the reviews completed in March 2015, you will be paid at the begining o
   This is a known bug. Whenever you edit a comment, the system counts it as an additional comment. You
 can get the correct comment count by refreshing the page. Refreshing the page will delete any feedback
 you've left on the Project Review tab, so most of us don't fill out the Project Review tab until we're finished with the Code Review tab.
+
+* **Why did I receive an email with the subject "There are $0 Worth of Projects to Review"?** <br>
+This is a bug in the system.
