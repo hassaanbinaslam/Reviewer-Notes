@@ -8,3 +8,6 @@ If you ever refresh the page while doing a review you will lose any feedback lef
 
 * **Show amount available for each project on reviewer dashboard** <br>
 It is annoying to have to click the Start button to see if there are any submissions available to review. It doesn't help that there isn't a keyboard shortcut to close the *No Submissions Available* popup.
+
+* **Ability to input payment information on reviewer dashboard** <br>
+Right now we send payment info (Udacity email, Paypal email, Country of Residence) to Janhavi via email. It'd be better if the reviewer dashboard included a simple reviewer profile where we could input this kind of payment info.
