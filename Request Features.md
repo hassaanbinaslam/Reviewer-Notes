@@ -13,4 +13,4 @@ It is annoying to have to click the Start button to see if there are any submiss
 Right now we send payment info (Udacity email, Paypal email, Country of Residence) to Janhavi via email. It'd be better if the reviewer dashboard included a simple reviewer profile where we could input these details.
 
 * **Ability to see previous reviews/submissions of a student project** <br>
-This will help to avoid repeating comments and suggestions when evaluating any project. Many students usually mentioned they made amendments on the code from preivous review; if you were not the code reviewer, it would be difficult to know what needed to be corrected and what you should focus on this new review (i.e. check the corrections and see what else needs to corrected or could be improved)!
+This will help to avoid repeating comments and suggestions when evaluating any project. Many students usually mentioned they made amendments on the code from previous review; if you were not the code reviewer, it would be difficult to know what needed to be corrected and what you should focus on this new review (i.e. check the corrections and see what else needs to corrected or could be improved)!
