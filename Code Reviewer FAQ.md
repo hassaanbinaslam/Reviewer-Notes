@@ -8,7 +8,7 @@ can get the correct comment count by refreshing the page. Refreshing the page wi
 you've left on the Project Review tab, so most of us don't fill out the Project Review tab until we're finished with the Code Review tab.
 
 * **Is there a way to limit the amount of emails I get about available projects to review?** <br>
-Right now you can't adjust this within the reviewer dashboard. You can, however, stop these emails from appearing in your main inbox by creating a filter. You can set the filter to automatically archive all emails from review-support@udacity.com. This will enable you to still view the emails by searching for review-support@udacity.com within your e-mail account.
+Right now you can't adjust the frequency of these emails. You can, however, stop these emails from appearing in your main inbox by creating a filter. You can set the filter to automatically archive all emails from review-support@udacity.com. This will enable you to still view the emails by searching for review-support@udacity.com within your e-mail account.
 
 * **Why did I receive an email with the subject "There are $0 Worth of Projects to Review"?** <br>
 This is a bug in the system.
