@@ -18,5 +18,5 @@ This will help to avoid repeating comments and suggestions when evaluating any p
 * **Grading tool should compile project** <br> 
   and if there are errors, student is prompted to fix it and resubmit. 
 
-* **Grading tool should check if all the required filed have been re-submitteed.**
+* **Grading tool should check if all the required filed have been submitteed.**
 
