@@ -12,3 +12,10 @@ Right now you can't adjust the frequency of these emails. You can, however, stop
 
 * **Why did I receive an email with the subject "There are $0 Worth of Projects to Review"?** <br>
 This is a bug in the system.
+
+* **What do I do if the student submission is missing a file?** <br>
+(Thanks to Dallas Frank for elaborating this on the google plus community!) - I always review the project fully and completely unless files are missing that prevent it, which does happen sometimes.  If I can get it running by editing a small code error or without a readme I will still provide full feedback to help the student improve all areas of the project before they resubmit (which they will have to due to critical feedback).
+
+  I do not think returning a project without full feedback is appropriate unless it is absolutely necessary because it will lead to extra submits and frustration that could be avoided.  No student wants to get feedback that says "fix this", then after fixing it gets some new feedback that says "fix this other thing that was not mentioned the first time even though it was like that all along".
+
+  I do think it is our job to figure out how to make an inadequate project execute where practical and when not practical, still review the code itself for useful feedback.  Very often doing so is the key to helping the student find and correct the errors they are struggling with.﻿
