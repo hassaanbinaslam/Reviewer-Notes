@@ -7,7 +7,7 @@ Sometimes I'll save a comment, but later on it doesn't mesh well with my other o
 If you ever refresh the page while doing a review you will lose any feedback left in the Project Review area. A lot of us refresh to get the correct comment count to show up on the Code Review tab, which means we can't fill out the Project Review tab until we're finished with the Code Review tab. Workflow would be improved with either the ability to save feedback on the Project Review tab or a fix to the comment count bug.
 
 * **Show amount available for each project on reviewer dashboard** <br>
-It is annoying to have to click the Start button to see if there are any submissions available to review. It doesn't help that there isn't a keyboard shortcut to close the *No Submissions Available* popup.
+As of right now, if a project you've selected has no submissions available to be reviewed, the project is hidden from the dashboard. It'd be better if the project was still listed on the dashboard and the amount available was set to 0.
 
 * **Ability to input payment information within reviewer dashboard** <br>
 Right now we send payment info (Udacity email, Paypal email, Country of Residence) to Janhavi via email. It'd be better if the reviewer dashboard included a simple reviewer profile where we could input these details.
