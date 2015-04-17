@@ -41,7 +41,7 @@ Resources (mostly on semicolons):
 
 
 ###Connect Learners:
-A good Code Revier connects the student to a source of knowledge they did not previously have.
+A good Code Reviewer connects the student to a source of knowledge they did not previously have.
 
 Examples:
 
@@ -56,11 +56,11 @@ It does not matter what style guide the student uses as long as they're consiste
 Resources:
 * [Google Style Guides](https://code.google.com/p/google-styleguide/)
 
-* Helpful sample reviews:
+Helpful sample reviews:
 
-	[Cheryl Court](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Cheryl+Court+Review.pdf)
+* [Cheryl Court](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Cheryl+Court+Review.pdf)
 
-	[Raunaq Sahni](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Raunaq+Sahni+Review.pdf)
+* [Raunaq Sahni](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Raunaq+Sahni+Review.pdf)
 
 
 
