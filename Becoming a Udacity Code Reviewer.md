@@ -34,7 +34,7 @@ Explain why using online references and create code snippets with [Github's Gist
 
 * [Google's JavaScript Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Semicolons)
 
-* [When use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
+* [When to use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
 
 * [Jacques uses a popular internet meme to help the learner remember this concept.](http://davidwalsh.name/demo/javascript-semicolons.png)
 
@@ -53,7 +53,7 @@ It does not matter what style guide the student uses as long as they're consiste
 
 
 Resources:
-* [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Google Style Guides](https://code.google.com/p/google-styleguide/)
 
 * Helpful sample reviews:
 
