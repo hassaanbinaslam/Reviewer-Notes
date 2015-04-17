@@ -18,7 +18,7 @@ It is always important to remember that the review is being provided to a studen
 
 [Stack Overflow Model](http://stackoverflow.com/help/be-nice)
 
-In short: *Be Nice:
+In short: **Be Nice:**
 
 * Rudeness and belittling language are not okay.
 * Be welcoming, be patient, and assume good intentions.
