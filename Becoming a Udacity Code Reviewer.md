@@ -18,7 +18,7 @@ It is always important to remember that the review is being provided to a studen
 
 [Stack Overflow Model](http://stackoverflow.com/help/be-nice)
 
-In short: ####Be Nice:
+In short: *Be Nice:
 
 * Rudeness and belittling language are not okay.
 * Be welcoming, be patient, and assume good intentions.
@@ -36,13 +36,14 @@ Explain why using online references and create code snippets with [Github's Gist
 
 * [When use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
 
-* [Jacques uses a popular internet meme to help the learner remember this concept.](davidwalsh.name/demo/javascript-semicolons.png)
+* [Jacques uses a popular internet meme to help the learner remember this concept.](http://davidwalsh.name/demo/javascript-semicolons.png)
 
 
 ###Connect Learners:
 A good Code Revier connects the student to a source of knowledge they did not previously have.
 
 Examples:
+
 1. Tech Talks
 2. Code libraries like PyPi & Cocoa Pods
 3. Twitter and Meetup groups
