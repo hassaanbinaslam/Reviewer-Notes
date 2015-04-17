@@ -29,8 +29,9 @@ Example:
 
 
 ###Explain Why and with Examples:
-Explain why using online references and create code snippets with [Github's Gist Tool](https://gist.github.com/). Gist is a simple way to share snippets and pastes with others.
-	Resources (mostly on semicolons):
+Explain why using online references and creating code snippets with [Github's Gist Tool](https://gist.github.com/). Gist is a simple way to share snippets and pastes with others.
+
+Resources (mostly on semicolons):
 
 * [Google's JavaScript Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Semicolons)
 
