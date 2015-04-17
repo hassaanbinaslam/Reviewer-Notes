@@ -21,25 +21,26 @@ In short:
 
 ###Be Nice:
 
--Rudeness and belittling language are not okay.
--Be welcoming, be patient, and assume good intentions.
--Don't be a jerk.
+*Rudeness and belittling language are not okay.
+*Be welcoming, be patient, and assume good intentions.
+*Don't be a jerk.
 
-	Example:
-	[Highlighting Awesome Code Snippets](https://www.udacity.com/course/viewer#!/c-gr001/l-3562098906/m-3647758553)
+Example:
+[Highlighting Awesome Code Snippets](https://www.udacity.com/course/viewer#!/c-gr001/l-3562098906/m-3647758553)
 
 
 ###Explain Why and with Examples:
 Explain why using online references and create code snippets with [Github's Gist Tool](https://gist.github.com/). Gist is a simple way to share snippets and pastes with others.
 	Resources (mostly on semicolons):
--[Google's JavaScript Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Semicolons)
 
--[When use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
+*[Google's JavaScript Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#Semicolons)
 
--[Jacques uses a popular internet meme to help the learner remember this concept.](davidwalsh.name/demo/javascript-semicolons.png)
+*[When use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
+
+*[Jacques uses a popular internet meme to help the learner remember this concept.](davidwalsh.name/demo/javascript-semicolons.png)
 
 
-###Connect Learners
+###Connect Learners:
 A good Code Revier connects the student to a source of knowledge they did not previously have.
 
 Examples:
@@ -53,10 +54,12 @@ It does not matter what style guide the student uses as long as they're consiste
 Google's Style Guide recommends max line length to be 80 characters. It's common amongst programmers, to set a maximum line length at 80 or 120 characters. You should consider doing so too. It will improve the readability of your code :)
 
 Resources:
--[Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+-*Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
--Helpful sample reviews
+*Helpful sample reviews:
+
 [Cheryl Court](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Cheryl+Court+Review.pdf)
+
 [Raunaq Sahni](https://s3.amazonaws.com/udacity-hosted-downloads/gr001/reviews/Raunaq+Sahni+Review.pdf)
 
 
